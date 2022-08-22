@@ -1,6 +1,8 @@
 # wallpaperController
 A custom interactive windows wallpaper I made
 
+![example image](assets/example.png)
+
 This program was built for my setup:
 - 2 1920 by 1080 monitors
 - i9 10850
